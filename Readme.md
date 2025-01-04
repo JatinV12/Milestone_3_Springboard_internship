@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/96916c35-b3bd-42ec-a5d2-b5af71f43fde)
+
 # Milestone 3 Strategic HR Analytics Dashboard - Handling Imbalanced and Missing Values
 
 
